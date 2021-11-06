@@ -19,3 +19,5 @@
 | data | all the data needed for the project. | A markdown file with data description
 | docs | documentation site files | Blank index.html and index.css with basic styles
 | assets | all the files for the repo itself | Earth globe picture or green heart favicon (a small site icon for a browser tab)
+
+Back to [README](readme.md)
