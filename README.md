@@ -1,54 +1,45 @@
 # 3PA3OK
-
 Template repository for Python projects with a documentation site.
 
 This will greatly improve quality and creation time for new projects.
 
-Repo consist these files and folders:
-
-### files
-- README - current readme file
-- LICENSE - MIT licence
-- gitignore - extended gitignore file for Python, Node JS, and personal section.
-- flake8 - linter settings
-- requirements - list of required libraries
-
-### folders
-- src - usually the most clean version of working code
-- utils - small scripts with a specific purpose
-- data - all the data needed for the project
-- docs - documentation site files
-- assets - all the files for the repo itself
-- testmy - folder for test and actual coding
+[content.md](content.md) has a full list of files and folders with a brief explanation.
 
 ## How to use
 
-Use text below this explanation as a template, delete all the text above `END` heading. All the lines to be edited are stated as quotes like this:
+Use the text below this explanation as a template, delete all the text above the `END` heading. All the lines to be edited are stated as quotes like this:
 > edit me
 
 # END
 
-
 > # Repo name
-> and description
+> and summary
+
+## Description
+> paste something useful here
 
 ## Requirements
 Before running please be sure to install the required libraries.
-``` 
-pip install -r requirements.txt 
 ```
+pip install -r requirements.txt
+```
+Tested to work for Python 3.9.7 (Windows 10) and 3.7.10 (Kubuntu Linux)
+
 ## Instructions
-> paste something usefull here
+Run `main.py`, input your file path when prompted and choose a method.
+
+Want to explore this repo? [content.md](content.md) has a full list of files and folders with a brief explanation.
 
 ## Contact
-
 In case of any question, please, refer to 
  > [documentation](https://nicesoul.github.io/PASTE-the-repo-name-HERE/)
 
-
----
 Here is my contact [page](https://nicesoul.me/contact)
 
- ![globe east](https://avatars.githubusercontent.com/u/51438619?v=4)
+<br>
 
+---
+## And, please, remember what our home is
+![globe east](https://avatars.githubusercontent.com/u/51438619?v=4)
 
+Watch HOME [documentary](https://www.youtube.com/user/homeproject/videos) if not sure :)
