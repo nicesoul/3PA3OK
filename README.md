@@ -32,7 +32,7 @@ Want to explore this repo? [content.md](content.md) has a full list of files and
 
 ## Contact
 In case of any question, please, refer to 
- > [documentation](https://nicesoul.github.io/PASTE-the-repo-name-HERE/)
+ > [link to markdown documentation](https://www.markdownguide.org/extended-syntax/) - change to link to your repo documentation.
 
 Here is my contact [page](https://nicesoul.me/contact)
 
