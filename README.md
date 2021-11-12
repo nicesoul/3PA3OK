@@ -23,7 +23,7 @@ Before running please be sure to install the required libraries.
 ```
 pip install -r requirements.txt
 ```
-Tested to work for Python 3.9.7 (Windows 10) and 3.7.10 (Kubuntu Linux)
+Tested to work for Python 3.9.7 (Windows 10) and 3.8.10 (Kubuntu 20.04)
 
 ## Instructions
 Run `main.py`, input your file path when prompted and choose a method.
