@@ -24,6 +24,8 @@ data/*
 
 # Virtualenv
 .Python
+etc
+share
 [Bb]in
 [Ii]nclude
 [Ll]ib
